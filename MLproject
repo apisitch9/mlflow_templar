@@ -6,4 +6,4 @@ entry_points:
   main:
     parameters:
       max_iter: {type: float, default: 100}
-    command: "python3 mlflow_iris.py {max_iter}"
+    command: "python mlflow_iris.py {max_iter}"
