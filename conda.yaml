@@ -1,4 +1,4 @@
-name: tutorial
+name: mlflow_templar
 channels:
   - defaults
 dependencies:
