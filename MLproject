@@ -1,0 +1,9 @@
+name: mlflow_iris
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      max_iter: {type: float, default: 100}
+    command: "python train.py {max_iter}"

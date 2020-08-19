@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apisit/Desktop/mlflow_run/ml_flow_iris/mlruns/0/09a635eea5d84f65b3655d524c0b8ece/artifacts
+end_time: 1597832577869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 09a635eea5d84f65b3655d524c0b8ece
+run_uuid: 09a635eea5d84f65b3655d524c0b8ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1597832577840
+status: 3
+tags: []
+user_id: apisit
