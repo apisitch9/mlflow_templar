@@ -1,4 +1,4 @@
-name: tutorial
+name: mlflow_iris
 channels:
   - defaults
 dependencies:
